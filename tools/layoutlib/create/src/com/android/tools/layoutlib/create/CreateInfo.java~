@@ -230,7 +230,11 @@ public final class CreateInfo implements ICreateInfo {
         "android.os.SystemProperties",
         "android.text.AndroidBidi",
         "android.text.StaticLayout",
+<<<<<<< HEAD
+        "android.util.FloatMath",
+=======
         "android.text.format.Time",
+>>>>>>> 95bed00... Switch from FloatMath -> Math and Math.hypot where possible
         "android.view.Display",
         "libcore.icu.DateIntervalFormat",
         "libcore.icu.ICU",
