@@ -33,10 +33,13 @@
   <string name="accessibility_quick_settings_heads_up_on">Wyskakujące powiadomienia włączone.</string>
   <string name="accessibility_quick_settings_heads_up_changed_off">Wyskakujące powiadomienia zostały wyłączone.</string>
   <string name="accessibility_quick_settings_heads_up_changed_on">Wyskakujące powiadomienia zostały włączone.</string>
+<<<<<<< HEAD
+=======
   <string name="accessibility_quick_settings_ambient_display_off">Aktywny wyświetlacz wyłączony.</string>
   <string name="accessibility_quick_settings_ambient_display_on">Aktywny wyświetlacz włączony.</string>
   <string name="accessibility_quick_settings_ambient_display_changed_off">Aktywny wyświetlacz został wyłączony.</string>
   <string name="accessibility_quick_settings_ambient_display_changed_on">Aktywny wyświetlacz został włączony.</string>
+>>>>>>> 8b35a49276d2be5de6446abd1aa957c78ba9c3d8
   <string name="accessibility_quick_settings_sync_off">Synchronizacja wyłączona.</string>
   <string name="accessibility_quick_settings_sync_on">Synchronizacja włączona.</string>
   <string name="accessibility_quick_settings_sync_changed_off">Synchronizacja została wyłączona.</string>
@@ -64,9 +67,13 @@
   <string name="quick_settings_screen_timeout_detail_title">Wygaszanie ekranu</string>
   <string name="quick_settings_usb_tether_label">Tethering USB</string>
   <string name="quick_settings_heads_up_label">Wyskakujące powiadomienia</string>
+<<<<<<< HEAD
+  <string name="quick_settings_sync_label">Synchronizacja</string>
+=======
   <string name="quick_settings_ambient_display_label">Aktywny wyświetlacz</string>
   <string name="quick_settings_sync_label">Synchronizacja</string>
   <string name="quick_settings_custom_tile_detail_title">Kafelek niestandardowy</string>
+>>>>>>> 8b35a49276d2be5de6446abd1aa957c78ba9c3d8
   <string name="status_bar_expanded_header_weather_format"><xliff:g id="temp">%1$s</xliff:g> - <xliff:g id="condition">%2$s</xliff:g></string>
   <string name="left_shortcut_hint">Przesuń palcem w prawo do %1$s</string>
   <string name="right_shortcut_hint">Przesuń palcem w lewo do %1$s</string>
